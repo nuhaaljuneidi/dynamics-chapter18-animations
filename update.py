@@ -37,6 +37,7 @@ SITE_URL = "https://nuhaaljuneidi.github.io/dynamics-chapter18-animations/"
 # Hand-picked names, keyed by (slide title, picture name in PowerPoint).
 # Any GIF not listed here gets an automatic name from auto_name().
 NAMES = {
+    ("Push the Door: What Is a Moment?", "Animation"): "push-the-door",
     ("Same Push, Different I", "Animation"): "same-push-different-i",
     ("Where Does I Come From? Ring by Ring", "Animation"): "building-i-ring-by-ring",
 }
